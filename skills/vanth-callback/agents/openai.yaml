@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vanth Callback"
+  short_description: "Resume Codex when a local background job ends"
+  default_prompt: "Use $vanth-callback to run this local job and resume when it ends."
